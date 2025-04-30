@@ -5,7 +5,7 @@
 ### Predicting Stunts on NFL Pass Plays (link)
 **Overview**: Using player tracking
 
-### Analyzing My Chess Games [Link](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
+### [Analyzing My Chess Games](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
 **Overview**: Using Python, R, and Tableau, I imported my 3,200+ chess games to analyze general trends
 
 ### Calculating WAR in NFL using RAPM and Hierarchical Bayesian Models 
