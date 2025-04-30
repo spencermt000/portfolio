@@ -5,7 +5,7 @@
 ### [Predicting Stunts on NFL Pass Plays](https://github.com/spencermt000/portfolio/blob/main/_posts/NFL_stunts.md)
 **Overview**: Using player tracking
 
-### [Clustering with PCA to Analyze NBA Player's Defensive Performance](https://github.com/spencermt000/portfolio/blob/main/_posts/NBA_def_pca.md)
+### [Clustering NBA Player's Defensive Performance](https://github.com/spencermt000/portfolio/blob/main/_posts/NBA_def_pca.md)
 **Overview**: Using
 
 ### [Analyzing Chess Games](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
