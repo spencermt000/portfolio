@@ -8,7 +8,7 @@
 ### [Clustering with PCA to Analyze NBA Player's Defensive Performance](https://github.com/spencermt000/portfolio/blob/main/_posts/NBA_def_pca.md)
 **Overview**: Using
 
-### [Analyzing My Chess Games](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
+### [Analyzing Chess Games](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
 **Overview**: Using Python, R, and Tableau, I imported my 3,200+ chess games to analyze general trends
 
 ### [Calculating WAR in NFL using RAPM and Hierarchical Bayesian Models](https://github.com/spencermt000/portfolio/blob/main/_posts/NFL_war.md) 
