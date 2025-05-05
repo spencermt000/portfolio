@@ -9,7 +9,7 @@
 **Overview**: Using
 
 ### [Analyzing Chess Games](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
-**Overview**: Using Python, R, and Tableau, I imported my 3,200+ chess games to analyze general trends
+**Overview**: I downloaded the .pgn files of over 2000 of my chess games and nearly 30,000 games from Grandmaster Hikaru Nakimura. I wrote code in Python to loop through each game in the files, tracking each pieces' location, and calculating the "scope" of the piece. I used R to further clean and organize the data before using Tableau for the visualizations. Scope refers to how many squares a piece can see, excluding pawns. I also kept additional data like the ECO code for the opening played, the unique piece ID (since there's 2 bishops, knights, rooks), the winner of the game, and the ELO of the players. I wanted to see if there is any interesting trends regarding piece activity throughout the game and how openings might affect that.
 
 ### [Calculating WAR in NFL using RAPM and Hierarchical Bayesian Models](https://github.com/spencermt000/portfolio/blob/main/_posts/NFL_war.md) (in progress) 
 **Overview**: Using
