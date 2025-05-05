@@ -11,10 +11,10 @@
 ### [Analyzing Chess Games](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
 **Overview**: Using Python, R, and Tableau, I imported my 3,200+ chess games to analyze general trends
 
-### [Calculating WAR in NFL using RAPM and Hierarchical Bayesian Models](https://github.com/spencermt000/portfolio/blob/main/_posts/NFL_war.md) 
+### [Calculating WAR in NFL using RAPM and Hierarchical Bayesian Models](https://github.com/spencermt000/portfolio/blob/main/_posts/NFL_war.md) (in progress) 
 **Overview**: Using
 
-### Scraping Fantasy Football League & Draft Data using SleeperAPI
+### Scraping Fantasy Football League & Draft Data using SleeperAPI (planned)
 **Overview**: Using
 
 
