@@ -1,6 +1,6 @@
 # Analyzing Chess Piece Activity
 ## Overview
-I downloaded the .pgn files of over 2000 of my chess games and nearly 30,000 games from Grandmaster Hikaru Nakimura. I wrote code in Python to loop through each game in the files, tracking each pieces' location, and calculating the "scope" of the piece. Scope refers to how many squares a piece can see, excluding pawns. I also kept additional data like the ECO code for the opening played, the unique piece ID (since there's 2 bishops, knights, rooks), the winner of the game, and the ELO of the players. I wanted to see if there is any interesting trends regarding piece activity throughout the game and how openings might affect that. 
+I downloaded the .pgn files of over 2000 of my chess games and nearly 30,000 games from Grandmaster Hikaru Nakimura. I wrote code in Python to loop through each game in the files, tracking each pieces' location, and calculating the "scope" of the piece. I used R to further clean and organize the data before using Tableau for the visualizations. Scope refers to how many squares a piece can see, excluding pawns. I also kept additional data like the ECO code for the opening played, the unique piece ID (since there's 2 bishops, knights, rooks), the winner of the game, and the ELO of the players. I wanted to see if there is any interesting trends regarding piece activity throughout the game and how openings might affect that. 
 
 ### Knights
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b04671bc-5b24-4d47-9e68-3befb5b8c008" />
