@@ -8,14 +8,16 @@
 ### [Evaluting NBA Player's Defensive Performance using PCA Clustering](https://github.com/spencermt000/portfolio/blob/main/_posts/NBA_def_pca.md)
 **Overview**: I built a player clustering model using NBA data to uncover player roles based on both individual performance and team context. I collected detailed play-by-play and box score data through the hoopR package in R and augmented the dataset with external player statistics from Basketball Reference. After cleaning and merging the data sources, I engineered a set of features that capture both individual metrics (STLs+BLKs, Opp FG%, etc.) and team-dependent metrics (team DEF rating, plus minus, etc.). I then applied Principal Component Analysis (PCA), intentionally structuring the first two components to reflect these two dimensions: PC1 as an “individual impact” axis and PC2 as a “team context” axis. Using these principal components, I clustered players into four distinct groups, revealing patterns in player usage and team fit. This kind of analysis can help front offices, analysts, or fans identify undervalued contributors, role fit in different systems, or spot potential mismatches between player skill sets and team strategies.
 
+### Scraping Fantasy Football League & Draft Data using SleeperAPI (in progress)
+**Overview**: 
+
 ### [Analyzing Chess Games](https://github.com/spencermt000/portfolio/blob/main/_posts/chess_myself.md)
 **Overview**: I downloaded the .pgn files of over 2000 of my chess games and nearly 30,000 games from Grandmaster Hikaru Nakimura. I wrote code in Python to loop through each game in the files, tracking each pieces' location, and calculating the "scope" of the piece. I used R to further clean and organize the data before using Tableau for the visualizations. Scope refers to how many squares a piece can see, excluding pawns. I also kept additional data like the ECO code for the opening played, the unique piece ID (since there's 2 bishops, knights, rooks), the winner of the game, and the ELO of the players. I wanted to see if there is any interesting trends regarding piece activity throughout the game and how openings might affect that.
 
-### [Calculating WAR in NFL using RAPM and Hierarchical Bayesian Models](https://github.com/spencermt000/portfolio/blob/main/_posts/NFL_war.md) (in progress) 
-**Overview**: Using
+### [Calculating WAR in NFL using RAPM and Hierarchical Bayesian Models](https://github.com/spencermt000/portfolio/blob/main/_posts/NFL_war.md) (planned) 
+**Overview**: 
 
-### Scraping Fantasy Football League & Draft Data using SleeperAPI (planned)
-**Overview**: Using
+
 
 
 
